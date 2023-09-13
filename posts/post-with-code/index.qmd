@@ -1,6 +1,6 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Sample Post"
+author: "Colby Stakun-Pickering"
 date: "2023-09-13"
 categories: [news, code, analysis]
 image: "image.jpg"
