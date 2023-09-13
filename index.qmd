@@ -8,7 +8,12 @@ listing:
   sort-ui: true
   filter-ui: true
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
 
+Here are some of my most recent projects:
 
+::: {#sample-listings}
+:::
+
+Learn more about me [here](https://www.colbysp.com).
