@@ -39,7 +39,7 @@
     "href": "posts/post-with-code/index.html",
     "title": "Sample Post",
     "section": "",
-    "text": "This is a post with executable code.\n\n9 + 10\n\n[1] 19"
+    "text": "This is a post with executable code.\n\nimport matplotlib.pyplot as plt\nimport numpy as np\nplt.style.use(\"ggplot\")\n\nx = np.linspace(-np.pi, np.pi, 100)\ny = np.sin(x)\n\nplt.plot(x, y, label=r\"$\\sin(x)$\")\nplt.xlabel(r\"$x$\")\nplt.ylabel(r\"$\\sin(x)$\")\nplt.legend()\nplt.show()\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html#recent-projects",
