@@ -11,9 +11,11 @@ website:
         href: https://github.com/ColbySP
       - icon: linkedin
         href: https://www.linkedin.com/in/colbysp/
+  back-to-top-navigation: true
+
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
 
 

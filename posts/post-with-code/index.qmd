@@ -1,9 +1,11 @@
 ---
 title: "Sample Post"
-author: "Colby Stakun-Pickering"
+description: "An example of my first post"
+author: "Colby S-P"
 date: "2023-09-13"
 categories: [news, code, analysis]
 image: "image.jpg"
+draft: false
 ---
 
 This is a post with executable code.

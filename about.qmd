@@ -2,7 +2,7 @@
 title: "About"
 image: profile.jpg
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: linkedin
       text: LinkedIn
@@ -13,4 +13,32 @@ about:
 
 ---
 
-About this blog
+I grew up in Wellesley, MA and attended Wellesley High School, where I developed a strong interest in mathematics and the natural Sciences. Later, I pursued a double major in mathematics and physics at Bates College, while also exploring the exciting realm of computer science. Currently, I am working towards my PhD. at Virginia Tech, aiming to learn as much as possible and hone my problem solving skills.
+
+## Education
+
+**Virginia Tech** | PhD in Statistics
+
+Aug. 2023 - Present
+
+**Bates College** | B.A in Mathematics & Physics
+
+Aug. 2019 - May 2023
+
+## Experience
+
+**Bates College** | Astrophysics Research Assistant
+
+May 2022 - July 2023
+
+**Bates College** | Calculus Course Attached Tutor
+
+Sept. 2021 - Apr. 2022
+
+**Freelance** | Python Programmer
+
+June 2021 - Sept. 2021
+
+**Diamond Diagnostics** | Engineering Intern
+
+June 2017 - Aug. 2017

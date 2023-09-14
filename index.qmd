@@ -1,19 +1,24 @@
 ---
-title: "Colby's Blog"
 listing:
+  id: posts
   contents: posts
-  sort: "date desc"
+  sort:
+    - "date"
+    - "title desc"
   type: default
-  categories: true
-  sort-ui: true
-  filter-ui: true
-page-layout: full
-title-block-banner: false
+  categories: numbered
+  page-size: 10
+  date-format: medium
+  fields: 
+    - title
+    - description
+    - date
+    - image
+    - categories
+    - reading-time
+  sort-ui: [date, title]
 ---
 
-Here are some of my most recent projects:
-
-::: {#sample-listings}
+## Recent Projects:
+::: {#posts}
 :::
-
-Learn more about me [here](https://www.colbysp.com).

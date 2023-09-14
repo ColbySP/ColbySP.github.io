@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "I grew up in Wellesley, MA and attended Wellesley High School, where I developed a strong interest in mathematics and the natural Sciences. Later, I pursued a double major in mathematics and physics at Bates College, while also exploring the exciting realm of computer science. Currently, I am working towards my PhD. at Virginia Tech, aiming to learn as much as possible and hone my problem solving skills."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -14,17 +14,38 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Colby's Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nAn example of my first post\n\n\n\n\n\n\nSep 13, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nVirginia Tech | PhD in Statistics\nAug. 2023 - Present\nBates College | B.A in Mathematics & Physics\nAug. 2019 - May 2023"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nBates College | Astrophysics Research Assistant\nMay 2022 - July 2023\nBates College | Calculus Course Attached Tutor\nSept. 2021 - Apr. 2022\nFreelance | Python Programmer\nJune 2021 - Sept. 2021\nDiamond Diagnostics | Engineering Intern\nJune 2017 - Aug. 2017"
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Sample Post",
     "section": "",
     "text": "This is a post with executable code.\n\n9 + 10\n\n[1] 19"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Colby’s Blog",
+    "objectID": "index.html#recent-projects",
+    "href": "index.html#recent-projects",
+    "title": "Colby's Blog",
     "section": "",
-    "text": "Here are some of my most recent projects:\n\n\n\nLearn more about me here.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nSample Post\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 13, 2023\n\n\nColby Stakun-Pickering\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 10, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nAn example of my first post\n\n\n\n\n\n\nSep 13, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   }
 ]
