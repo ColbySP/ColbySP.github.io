@@ -3,7 +3,7 @@
   "result": {
     "markdown": "---\ntitle: \"Sample Post\"\ndescription: \"An example of my first post\"\nauthor: \"Colby S-P\"\ndate: \"2023-09-13\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\ndraft: false\n---\n\nThis is a post with executable code.\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport matplotlib.pyplot as plt\nimport numpy as np\nplt.style.use(\"ggplot\")\n\nx = np.linspace(-np.pi, np.pi, 100)\ny = np.sin(x)\n\nplt.plot(x, y, label=r\"$\\sin(x)$\")\nplt.xlabel(r\"$x$\")\nplt.ylabel(r\"$\\sin(x)$\")\nplt.legend()\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](index_files/figure-html/cell-2-output-1.png){width=611 height=432}\n:::\n:::\n\n\n",
     "supporting": [
-      "index_files"
+      "index_files/figure-html"
     ],
     "filters": [],
     "includes": {}
