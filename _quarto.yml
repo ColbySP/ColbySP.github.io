@@ -12,6 +12,9 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/colbysp/
   back-to-top-navigation: true
+  google-analytics:
+    tracking-id: 6109903216
+    storage: none
 
 format:
   html:
