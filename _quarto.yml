@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Colby's Blog"
+  site-url: "https://colbysp.github.io/"
+  favicon: favicon.png
   navbar:
     right:
       - about.qmd
@@ -11,7 +13,6 @@ website:
         href: https://github.com/ColbySP
       - icon: linkedin
         href: https://www.linkedin.com/in/colbysp/
-  back-to-top-navigation: true
   google-analytics:
     tracking-id: "G-8VGP46KHDR"
     storage: none

@@ -96,6 +96,20 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8VGP46KHDR"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+ 
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied'
+  });
+gtag('config', 'G-8VGP46KHDR', { 'anonymize_ip': true});
+</script>
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -144,7 +158,20 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#this-is-a-header" id="toc-this-is-a-header" class="nav-link active" data-scroll-target="#this-is-a-header">This is a header</a>
+  <ul class="collapse">
+  <li><a href="#this-is-a-subheader" id="toc-this-is-a-subheader" class="nav-link" data-scroll-target="#this-is-a-subheader">This is a subheader</a></li>
+  </ul></li>
+  <li><a href="#this-is-another-header" id="toc-this-is-another-header" class="nav-link" data-scroll-target="#this-is-another-header">This is another header</a>
+  <ul class="collapse">
+  <li><a href="#this-is-another-subheader" id="toc-this-is-another-subheader" class="nav-link" data-scroll-target="#this-is-another-subheader">This is another subheader</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -188,7 +215,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<p>This is a post with executable code.</p>
+<section id="this-is-a-header" class="level1">
+<h1>This is a header</h1>
+<section id="this-is-a-subheader" class="level2">
+<h2 class="anchored" data-anchor-id="this-is-a-subheader">This is a subheader</h2>
 <div class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
@@ -206,10 +236,18 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p><img src="index_files/figure-html/cell-2-output-1.png" width="611" height="432"></p>
 </div>
 </div>
+</section>
+</section>
+<section id="this-is-another-header" class="level1">
+<h1>This is another header</h1>
+<section id="this-is-another-subheader" class="level2">
+<h2 class="anchored" data-anchor-id="this-is-another-subheader">This is another subheader</h2>
 
 
+</section>
+</section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

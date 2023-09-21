@@ -5,10 +5,12 @@ author: "Colby S-P"
 date: "2023-09-13"
 categories: [news, code, analysis]
 image: "image.jpg"
-draft: false
+draft: true
 ---
 
-This is a post with executable code.
+# This is a header
+
+## This is a subheader
 
 ```{python}
 import matplotlib.pyplot as plt
@@ -25,3 +27,6 @@ plt.legend()
 plt.show()
 ```
 
+# This is another header
+
+## This is another subheader

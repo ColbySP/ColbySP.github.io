@@ -3,7 +3,7 @@ listing:
   id: posts
   contents: posts
   sort:
-    - "date"
+    - "date desc"
     - "title desc"
   type: default
   categories: numbered
