@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Colby's Blog"
+  title: "Colby's Website"
   site-url: "https://colbysp.github.io/"
   favicon: favicon.png
   navbar:

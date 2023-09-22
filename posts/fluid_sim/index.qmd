@@ -3,17 +3,13 @@ title: "Fluid Simulations With PhiFlow"
 description: "For my computational physics final, I utilized a physics engine to conduct fluid simulations."
 author: "Colby S-P"
 date: "2023-09-16"
-categories: [Python, Physics, Fluid Simulation]
+categories: [Fluid Simulation, Physics, Python]
 image: "image.jpg"
 draft: false
 ---
 
 # Introduction
-During my undergraduate years at Bates College, one of my final classes was Computational Physics. In this course, we delved into various techniques and software packages to create comprehensive physics simulations. Among the many fascinating topics we covered, I found advection and diffusion particularly intriguing. These concepts revolve around the movement of particles through a field and how they gradually dissipate their energy across the entire system.
-
-The significance of these concepts became evident when we explored scenarios like the way temperature spreads to equalize disparities in a system. It struck me how crucial these ideas were in the context of fluid simulations, and this realization planted a goal in the back of my mind.
-
-For my final project, driven by the desire to challenge myself and achieve this goal, I embarked on the journey of learning and implementing a fluid dynamics simulation. Initially, I felt overwhelmed when reading through the available resources. However, with persistence and by immersing myself in the literature, researching existing libraries and techniques, and troubleshooting numerous errors, I was able to complete my project successfully.
+During my undergraduate education at Bates College, one of my final classes was Computational Physics. In this course, we delved into various techniques and software packages to create comprehensive physics simulations. Among the many fascinating topics we covered, I found advection and diffusion particularly intriguing. These concepts revolve around the movement of particles through a field and how they gradually dissipate their energy across the entire system. The significance of these concepts became evident when we explored scenarios like the way temperature spreads to equalize disparities in a system. Later, I drew the connection about how crucial these ideas were in the context of fluid simulations, which ultimately planted a goal in the back of my mind. This goal, that I acted on by making it the subject of my final project, was to create and run my own fluid simulation.
 
 From the outset, I aimed to make my project versatile. I wanted users to be able to create a grid of empty space and populate it with objects that the fluid must navigate according to the simulation conditions. After extensive research, it became clear that "PhiFlow" was the most comprehensive library to accomplish this goal. PhiFlow is a Python library specifically designed for fluid dynamics simulations, offering a wide range of functions for efficiently computing the necessary mathematics and physics involved in the simulation process. As the project progressed, I discovered several ingenious techniques used by PhiFlow, which I'll delve into later in this blog post.
 
